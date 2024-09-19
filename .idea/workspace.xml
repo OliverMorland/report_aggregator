@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db30565-9bfa-49f7-9828-c533da762ba8" name="Changes" comment="Added gitignore">
-      <change afterPath="$PROJECT_DIR$/data/TestReport_20240919_070416.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/TestReport_20240919_071147.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/TestReport_20240919_071335.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/TestReport_20240919_071419.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/TestReport_20240919_071537.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0db30565-9bfa-49f7-9828-c533da762ba8" name="Changes" comment="Excel section ready to test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggregated_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/aggregated_data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TestReport_20240919_070416.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TestReport_20240919_071147.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TestReport_20240919_071335.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TestReport_20240919_071419.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TestReport_20240919_071537.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +54,13 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omorland\PythonProjects\report_aggregator" />
       <recent name="C:\Users\omorland\PythonProjects\report_aggregator\data" />
     </key>
   </component>
@@ -124,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726770974375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Excel section ready to test">
+      <option name="closed" value="true" />
+      <created>1726778252654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726778252654</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
+    <MESSAGE value="Excel section ready to test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excel section ready to test" />
   </component>
 </project>
